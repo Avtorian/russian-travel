@@ -7,5 +7,5 @@
 
 **GitHub Pages**
 
-* [Ссылка на макет в GitHub Pages]()
+* [Ссылка на макет в GitHub Pages](https://avtorian.github.io/russian-travel/)
 
