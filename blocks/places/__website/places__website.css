@@ -1,0 +1,14 @@
+.places__website {
+    justify-self: start;
+    align-self: end;
+    padding: 0;
+    margin: 0;
+}
+
+@media (max-width: 425px) {
+    .places__website {
+        max-width: 288px;
+        width: 100%;
+        margin: 0 auto;
+    }
+}
