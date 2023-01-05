@@ -9,6 +9,7 @@
     .places__website {
         max-width: 288px;
         width: 100%;
-        margin: 0 auto;
+        margin-left: auto;
+        margin-right: auto;
     }
 }

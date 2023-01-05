@@ -5,6 +5,7 @@
 }
 @media (max-width: 425px) {
     .header__lang-links {
-        padding: 14px 0 8px 0;
+        padding-top: 14px;
+        padding-bottom: 8px;
     }
 }
